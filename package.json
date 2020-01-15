@@ -1,7 +1,7 @@
 {
-  "name": "js-testing-introduction",
+  "name": "js-testing",
   "version": "1.0.0",
-  "description": "An introduction to JS testing",
+  "description": "JS testing",
   "main": "app.js",
   "scripts": {
     "start": "webpack app.js --mode development --watch",
@@ -19,8 +19,6 @@
     "e2e",
     "tests"
   ],
-  "author": "Maximilian Schwarzmüller/ Academind GmbH",
-  "license": "ISC",
   "devDependencies": {
     "webpack": "^4.20.2",
     "webpack-cli": "^3.1.2"
